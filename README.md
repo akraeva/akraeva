@@ -18,7 +18,7 @@ Ask me about anything [here](https://github.com/akraeva/akraeva/issues).
 [<img align="left" alt="Anna Kraeva | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br />
 
 ![](https://komarev.com/ghpvc/?username=akraeva)
-![](https://hit.yhype.me/github/profile?user_id=330798)
+![](https://hit.yhype.me/github/profile?user_id=106037813)
 
 [website]: https://teatrsp.ru
 [twitter]: https://twitter.com/_nia
