@@ -1,6 +1,7 @@
 ### Hi there, I'm Anna! 👋
 
 I’m an Product Manager who can code:)
+Passionate about Education and Technology.
 
 Ask me about anything [here](https://github.com/akraeva/akraeva/issues).
 
