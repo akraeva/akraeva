@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Anna! 👋
 
-<!--
-**akraeva/akraeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ask me about anything [here](https://github.com/akraeva/akraeva/issues).
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=akraeva&count_private=true&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akraeva&count_private=true&show_icons=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect with me
+
+[<img align="left" alt="Театр танца Ольги Фоминой" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Anna Kraeva | Twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Anna Kraeva | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br />
+
+![](https://komarev.com/ghpvc/?username=akraeva)
+![](https://hit.yhype.me/github/profile?user_id=330798)
+
+[website]: https://teatrsp.ru
+[twitter]: https://twitter.com/_nia
+[linkedin]: https://linkedin.com/in/akraeva
