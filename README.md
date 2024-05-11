@@ -1,5 +1,6 @@
 ### Hi there, I'm Anna! 👋
 
+I’m an Product Manager who can code:)
 Ask me about anything [here](https://github.com/akraeva/akraeva/issues).
 
 <p align="left">
