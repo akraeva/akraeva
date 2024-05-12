@@ -23,4 +23,4 @@ Ask me about anything [here](https://github.com/akraeva/akraeva/issues).
 
 [website]: https://teatrsp.ru
 [twitter]: https://twitter.com/_nia
-[linkedin]: https://linkedin.com/in/akraeva
+[linkedin]: https://linkedin.com/in/kraeva
