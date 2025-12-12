@@ -1,7 +1,7 @@
 # Hi there, I'm Anna! 👋
 
 I’m a Product Manager who can code :)  
-Passionate about Education and Technology.  
+Passionate about Education and Technology.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=akraeva&count_private=true&show_icons=true" />
