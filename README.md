@@ -28,6 +28,6 @@
  
 Оpen to thoughtful [conversations](https://github.com/akraeva/akraeva/issues) about development and EdTech
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akraeva&count_private=true&show_icons=true" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akraeva)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=akraeva)
