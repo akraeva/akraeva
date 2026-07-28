@@ -16,6 +16,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-CB02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Sphinx](https://img.shields.io/badge/Sphinx-000000?style=flat&logo=sphinx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
